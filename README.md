@@ -1,1 +1,3 @@
-# Cloud-Computing-PA-2
+# AWS Spark Wine Quality Prediction Application
+# Prof. Manoop Talasila
+# Cloud-Computing
